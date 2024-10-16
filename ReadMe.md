@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Plaid API integrated budgeting app<br>🌱 I’m currently learning React and Firebase<br>💬 I'm a 4th year computer science student at the University of British Columbia<br>⚡ A fun fact about me is that I'm training for a half marathon
+🔭 I’m currently working on a insurance policy analyser from BFL Canada<br>🌱 I’m currently learning React and ML Entity Extraction<br>💬 I'm a 4th year computer science student at the University of British Columbia<br>⚡ A fun fact about me is that I'm a diehard Canucks fan
 
 
 ## 🌐 Socials:
